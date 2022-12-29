@@ -1,0 +1,168 @@
+/* Styling the body */
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+/* Styling the first parallax's 
+height, width and background color */
+.parallax-1 {
+    width: 100%;
+    height: 600px;
+    background-image: url("./attachments/parallax2.png");
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+/* Styling the title of first parallax */
+.parallax-1 h2 {
+    margin: auto;
+    position: relative;
+    left: 500x;
+    top: 300px;
+    width: 250px;
+    height: 32px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+/* Styling the second parallax's 
+height, width and background color */
+.parallax-2 {
+    width: 100%;
+    height: fit-content;
+    background: url('./attachments/parallax1.png');
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+/* Styling the title of second parallax */
+.parallax-2 h2 {
+    margin: auto;
+    position: relative;
+    left: 500x;
+    top: 300px;
+    width: 250px;
+    height: 37px;
+    padding: 10px;
+    background-color: white;
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    font-family: Verdana;
+}
+
+/* Styling the content or paragraph */
+.para-1 {
+    padding: 50px;
+    background-color: #333;
+    color: white;
+    font-size: 17px;
+}
+
+/* Styling the content or paragraph */
+.para-2 {
+    text-align: center;
+    padding: 25px;
+    font-size: 17px;
+    font-family: Verdana;
+    background-color: #333;
+    color: white;
+}
+
+.top-menu{
+    position: fixed;
+    width: 100%;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    color: #fff;
+    z-index: 1;
+  }
+  
+  .top-menu li {
+    float: left;
+  }
+  
+  .top-menu li a {
+    display: block;
+    padding: 8px;
+    text-decoration: none;
+    color: #fff;
+    font-size: 25px;
+  }
+
+
+  /* fade in sections */
+  section{
+    min-height: 0vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  section:nth-child(1){
+    color: #e0ffff;
+    }
+  section:nth-child(2){
+    color: #42455a;
+  } 
+  section:nth-child(3){
+    color: #e0ffff;
+  }
+  section:nth-child(4){
+    color: #42455a;
+  }
+  section .container{
+    margin: 10px;
+  }
+  section h1{
+    font-size: 3rem;
+    margin: 20px;
+  }
+  section h2{
+    font-size: 40px;
+    text-align: center;
+    text-transform: uppercase;
+  }
+  section .text-container{
+     display: flex;
+  }
+  section .text-container .text-box{
+    margin-bottom: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 20px;
+    background: #00c2cb;
+  }
+  section .text-container .text-box h3{
+    font-size: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+  }
+  
+  @media (max-width: 900px){
+    section h1{
+      font-size: 2rem;
+      text-align: center;
+    }
+    section .text-container{
+      flex-direction: column;
+    }
+  }
+  
+  .reveal{
+    position: relative;
+    transform: translateY(150px);
+    opacity: 0;
+    transition: 1s all ease;
+  }
+  
+  .reveal.active{
+    transform: translateY(0);
+    opacity: 1;
+  }

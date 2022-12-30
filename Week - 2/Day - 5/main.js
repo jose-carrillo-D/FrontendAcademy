@@ -39,5 +39,5 @@ function reloadAnimation(bg){
 function displayContent(slide){
     setTimeout(() => {
         slide.classList.add('display-content');
-    }, 100);
+    }, 200);
 }

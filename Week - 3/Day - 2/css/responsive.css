@@ -1,0 +1,62 @@
+/* Media Queries */
+@media screen and (max-width: 767px) {
+    h1 {
+      font-size: 3em;
+    }
+    .search {
+      display: flex;
+      flex-direction: row;
+      background-color: transparent;
+      height: 5%;
+      position: static;
+      left: 0;
+      top: 0;
+      justify-content: center;
+      align-items: center;
+      margin: 5% auto;
+    }
+  
+    .search>span {
+      font-size: 0.9em;
+      align-self: center;
+      margin-right: 2%;
+    }
+  
+    .container {
+      width: 100vw;
+      justify-content: center;
+      margin: 0 auto;
+      align-items: center;
+    }
+  
+    .weatherInfo {
+      left: 15%;
+    }
+  
+    .cardRight {
+      padding-left: 5%;
+      margin-left: 7%;
+      margin-top: 6%;
+    }
+  
+    .cardLeft {
+      width: 80vw;
+    }
+  
+    .deg {
+      font-size: 1.5rem;
+      position: absolute;
+      top: 2%;
+      left: 30%;
+    }
+  
+    .gify {
+    position: static;
+    margin-top: 50%;
+    }
+  
+    .temp {
+      font-size: 6em;
+      text-align: left;
+    }
+}

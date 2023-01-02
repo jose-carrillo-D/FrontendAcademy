@@ -1,0 +1,48 @@
+@media screen and (max-width: 1200px) {
+
+    #article-container{
+        column-count: 2;
+    }
+
+    #article-container article:nth-child(n+2){
+        min-height: 330px;
+    }
+    
+}
+
+@media screen and (max-width: 580px) {
+
+    #user-info{
+        margin: 30px 0;
+    }
+
+    #user-info p{
+        font-size: 16px;
+    }
+
+    #user-info h2{
+        font-size: 40px;
+    }
+
+    #user-info .avatar{
+        width: 40px;
+        height: 40px;
+    }
+
+    #menu ul li{
+        font-size: 14px;
+    }
+
+    #article-container article{
+        min-height: 140px;
+    }
+
+    #article-container article:nth-child(n+2){
+        min-height: 200px;
+    }
+
+    #article-container article .city-data .name{
+        font-size: 16px;
+    }
+    
+}

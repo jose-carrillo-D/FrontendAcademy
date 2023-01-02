@@ -1,0 +1,152 @@
+{
+    "America" : [
+        {
+            "name" : "New York",
+            "country" : "USA",
+            "rate" : 4.9,
+            "area" : "783,8 km²",
+            "image" : "https://c4.wallpaperflare.com/wallpaper/25/480/834/vector-1920x1200-usa-skyline-wallpaper-preview.jpg"
+        },
+        {
+            "name" : "Rio de Janeiro",
+            "country" : "Brazil",
+            "rate" : 4.7,
+            "area" : "1,200 km²",
+            "image" : "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3b55640e-21a9-4f88-8fd8-f03c65a0d351/dltktj-952ee603-1322-44da-86c3-6816eba57238.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNiNTU2NDBlLTIxYTktNGY4OC04ZmQ4LWYwM2M2NWEwZDM1MVwvZGx0a3RqLTk1MmVlNjAzLTEzMjItNDRkYS04NmMzLTY4MTZlYmE1NzIzOC5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.LtfPkgCGas593M1HfWitxg3xt3LEJuqL7Jq0OJpK_pI"
+        },
+        {
+            "name" : "Buenos Aires",
+            "country" : "Argentina",
+            "rate" : 4.9,
+            "area" : "203 km²",
+            "image" : "https://media.istockphoto.com/id/1341489895/vector/buenos-aires-skyline-silhouette.jpg?s=612x612&w=0&k=20&c=2MWFrNPhFD4d8jUUOWd8lsiNR-7aM7U_6Mf7j3GzkAY="
+        },
+        {
+            "name" : "La Habana",
+            "country" : "Cuba",
+            "rate" : 4.9,
+            "area" : "728,3 km²",
+            "image" : "https://img.freepik.com/free-vector/hand-drawn-cuba-illustration_52683-85203.jpg?w=2000"
+        }
+    ],
+    "Asia" : [
+        {
+            "name" : "Tokyo",
+            "country" : "Japan",
+            "rate" : 4.9,
+            "area" : "2,194 km²",
+            "image" : "https://static.vecteezy.com/system/resources/thumbnails/008/890/596/small_2x/tokyo-city-landscape-and-landmark-free-vector.jpg"
+        },
+        {
+            "name" : "Seoul",
+            "country" : "South Korea",
+            "rate" : 4.7,
+            "area" : "605,2 km²",
+            "image" : "https://media.istockphoto.com/id/1309110353/vector/seoul-landing-page-in-flat-cartoon-style-south-korea-city-panorama-with-skyscrapers-urban.jpg?s=612x612&w=0&k=20&c=UxH-IJC66gDLJfUoDA3FIcxQh0vpc4ajCl51li-dnj0="
+        },
+        {
+            "name" : "Bangkok",
+            "country" : "Thailand",
+            "rate" : 4.3,
+            "area" : "1,569 km²",
+            "image" : "https://us.123rf.com/450wm/terd486/terd4861905/terd486190500025/terd486190500025.jpg?ver=6"
+        },
+        {
+            "name" : "Taipei",
+            "country" : "Taiwan",
+            "rate" : 4.1,
+            "area" : "271,8 km²",
+            "image" : "https://wallpapers.com/images/file/taipei-city-retro-vector-y4nabjrwmrryxl12.jpg"
+        }
+    ],
+    "Europe" : [
+        {
+            "name" : "Rome",
+            "country" : "Italy",
+            "rate" : 4.5,
+            "area" : "1,285 km²",
+            "image" : "https://img.freepik.com/vector-gratis/ilustracion-dibujos-animados-coliseo-roma-edificios-antiguos_1284-56757.jpg?w=2000"
+        },
+        {
+            "name" : "Paris",
+            "country" : "France",
+            "rate" : 4.8,
+            "area" : "105,4 km²",
+            "image" : "https://static.vecteezy.com/system/resources/previews/000/274/410/original/paris-illustration-vector.jpg"
+        },
+        {
+            "name" : "London",
+            "country" : "United Kingdom",
+            "rate" : 4.7,
+            "area" : "1,572 km²",
+            "image" : "https://i.pinimg.com/originals/42/70/99/427099ab0611a6ddb5ad403f33990959.jpg"
+        },
+        {
+            "name" : "Venice",
+            "country" : "Italy",
+            "rate" : 4.9,
+            "area" : "414,6 km²",
+            "image" : "https://img.freepik.com/premium-vector/man-row-boat-venice-famous-landmark-italy_11700-64.jpg?w=2000"
+        }
+    ],
+    "Africa" : [
+        {
+            "name" : "Cairo",
+            "country" : "Egipt",
+            "rate" : 4.8,
+            "area" : "3,085 km²",
+            "image" : "https://img.freepik.com/vector-premium/egipto-silueta-cairo-arquitectura-arabe-mezquitas-grandes-piramides-giza_434359-97.jpg?w=2000"
+        },
+        {
+            "name" : "Johannesburgo",
+            "country" : "Southafrica",
+            "rate" : 4.3,
+            "area" : "1,645 km²",
+            "image" : "https://world-schools.com/wp-content/uploads/2021/03/Best-Online-Schools-Johannesburg-2000x746-1-1024x382.jpg"
+        },
+        {
+            "name" : "Lagos",
+            "country" : "Nigery",
+            "rate" : 4.2,
+            "area" : "1,171 km²",
+            "image" : "https://i.pinimg.com/originals/c6/04/39/c6043953a8af8ce2bd523f03d632c260.png"
+        },
+        {
+            "name" : "Nairobi",
+            "country" : "Kenia Republic",
+            "rate" : 4.5,
+            "area" : "696,1 km²",
+            "image" : "https://t3.ftcdn.net/jpg/03/92/05/86/360_F_392058625_h9CMs7rThu3r32R11GWBm4ygoidys2BQ.jpg"
+        }
+    ],
+    "Oceania" : [
+        {
+            "name" : "Sydney",
+            "country" : "Australia",
+            "rate" : 4.9,
+            "area" : "12,368 km²",
+            "image" : "https://i.pinimg.com/736x/95/d7/e4/95d7e40c90d4b72ea228af23e21f48f9.jpg"
+        },
+        {
+            "name" : "Auckland",
+            "country" : "New Zeland",
+            "rate" : 3.9,
+            "area" : "1,086 km²",
+            "image" : "https://media.istockphoto.com/id/918752362/vector/auckland.jpg?b=1&s=612x612&w=0&k=20&c=m03uzo09R4pw9pEOeAmx-m-XRA8sLJ1fgVeb0HBAclw="
+        },
+        {
+            "name" : "Canberra",
+            "country" : "Australia",
+            "rate" : 4.3,
+            "area" : "812,2 km²",
+            "image" : "https://thumbs.dreamstime.com/b/canberra-skyline-23131459.jpg"
+        },
+        {
+            "name" : "Mackay",
+            "country" : "Australia",
+            "rate" : 4.5,
+            "area" : "202,2 km²",
+            "image" : "https://i.pinimg.com/originals/2b/a9/d9/2ba9d9543136ce1a712ed5b2e0c21395.jpg"
+        }
+    ]
+}
